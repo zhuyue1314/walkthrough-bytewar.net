@@ -3,7 +3,7 @@
 View the source (ctrl+u) in most browsers and you will see this:
 ```javascript
 function test(passwd) {
-    if (passwd == "easy") {
+if (passwd == "easy") {
     location.href = "?page=levels&level=1&pw=" + passwd;
 }
 else {

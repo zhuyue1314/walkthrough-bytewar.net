@@ -6,7 +6,7 @@ Relax the level is not broken, it's a fake 404 file. View the source of it and y
 
 Time to check cookies... In the address bar write `javascript:alert(document.cookie);`
 
-You will see at the bottom: "access=look_in_your_head..."
+You will see at the bottom: `access=look_in_your_head...`
 
 "Head..." means header. There are many ways to view the header information, but I used Google Chrome Developer Tool. Hit Shift+Ctrl+I and goto resources and select /?page=levels&level=8
 
